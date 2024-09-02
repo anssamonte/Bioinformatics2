@@ -1,4 +1,4 @@
- 1 ID Sequence pep MFVFLVLLP aff   0.0578 aff_rescale   0.2456 cle 0.0342 tap   0.3950 COMB   0.2704 
+   1 ID Sequence pep MFVFLVLLP aff   0.0578 aff_rescale   0.2456 cle 0.0342 tap   0.3950 COMB   0.2704 
    2 ID Sequence pep FVFLVLLPL aff   0.0703 aff_rescale   0.2985 cle 0.9532 tap   1.1460 COMB   0.4988 
    3 ID Sequence pep VFLVLLPLV aff   0.0559 aff_rescale   0.2372 cle 0.2534 tap   0.4570 COMB   0.2981 
    4 ID Sequence pep FLVLLPLVS aff   0.0636 aff_rescale   0.2700 cle 0.0467 tap  -2.1960 COMB   0.1672 
